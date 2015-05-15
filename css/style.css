@@ -1,0 +1,74 @@
+nav { margin-bottom: 0}
+.mainimage
+{
+    background-image: url(http://s1.bwallpapers.com/wallpapers/2014/03/03/ocean-desktop-backgrounds_015312624.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: -20px;
+    background-repeat: no-repeat;
+    font-family: "Lemon/Milk";
+}
+.getinvolved
+{
+    background-image: url(http://i.huffpost.com/gen/1583516/images/o-OCEAN-facebook.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: -20px;
+    background-repeat: no-repeat;
+    font-family: "Lemon/Milk";
+}
+.awareness
+{
+    background-image: url(http://snebulos.mit.edu/projects/crm/pictures/coral_reef1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: -20px;
+    background-repeat: no-repeat;
+    font-family: "Lemon/Milk";
+    color:aliceblue;
+}
+body
+{
+    font-family:sans-serif;
+    color:black;
+    padding-left: 10px;  
+}
+.turtle
+{
+    background-image: url(http://i.huffpost.com/gen/1583516/images/o-OCEAN-facebook.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: -20px;
+    background-repeat: no-repeat;
+    font-family: "Lemon/Milk";
+    color:aliceblue;
+}
+.defend
+{
+    background-image: url(http://www.ecozine.com/sites/default/files/kaab_0.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: -20px;
+    background-repeat: no-repeat;
+    font-family: "Lemon/Milk";
+    color:aliceblue;
+}
+.mytitle
+{
+    color:F1EB71;
+    margin: 20px;
+    padding-top: 10px;
+    font-family: "Lemon/Milk";
+    font-size: 50px;
+.content
+{
+    margin: 20px;
+    padding-top: 1px;
+    font-family: "Times New Roman";
+    color:white
+}
